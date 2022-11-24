@@ -60,3 +60,7 @@ tr, td,th{
     text-transform: capitalize;
     
 }
+.win{
+    background-color: var(--verde);
+    color: white;
+}
