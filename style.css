@@ -63,4 +63,5 @@ tr, td,th{
 .win{
     background-color: var(--verde);
     color: white;
+    font-weight: 700;
 }
