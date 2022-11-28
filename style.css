@@ -65,3 +65,7 @@ tr, td,th{
     color: white;
     font-weight: 700;
 }
+
+.fim{
+    display: none;
+}
