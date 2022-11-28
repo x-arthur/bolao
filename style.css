@@ -68,4 +68,5 @@ tr, td,th{
 
 .fim{
     display: none;
+    visibility: hidden;
 }
